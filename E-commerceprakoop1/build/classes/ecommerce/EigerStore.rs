@@ -1,2 +1,0 @@
-ecommerce.EigerStore
-ecommerce.Main
